@@ -1,4 +1,6 @@
-## A proof-of-concept Camlistore browser app.
+# Camlapp
+
+A proof-of-concept Camlistore browser app.
 
 - Search
 - List results
