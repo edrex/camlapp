@@ -1,17 +1,21 @@
 A proof-of-concept Camlistore browser app.
-It should support searching, listing results, and listening for updates.
 
-## Questions this is meant to help answer
+- Search
+- List results
+- Listen for updates
+
+## Objectives
+
+### Code
+
+  - TypeScript is teh awesum?
+  - Shared caching/transports?
+  - Reusable UI library.
 
 ### Packaging
 
+  - How to encapsulate elements as loadable modules, including styles, assets, etc?
   - What is the most sane way to distribute libraries? NPM is probably the most convenient for people.
   - Demontrate a vendoring workflow in the main app.
   - What's the most sane way to load stuff? System.js unpacked mode? Closure compiler or Rollup? 
 
-### Code
-
-  - We like the TypeScript?
-  - UI element encapsulation? It should be possible to encapsulate an element entirely, including any CSS, images, etc.
-    - Polymer, React?
-  - Shared caching/transports?
