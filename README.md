@@ -1,4 +1,4 @@
-##### A proof-of-concept Camlistore browser app.
+## A proof-of-concept Camlistore browser app.
 
 - Search
 - List results
